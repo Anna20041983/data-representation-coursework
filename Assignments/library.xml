@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Library>
+    <Technical Books>
+        <Book>
+            <ISBN> 101 </ISBN>
+            <Title> THE FILM BOOK </Title>
+            <Author> Ronald Bergan </Author>
+            <Price> 22.40 </Price>
+        </Book>
+        <Book>
+            <ISBN> 102 </ISBN>
+            <Title> TECHNICAL ANALYSIS EXPLAINED </Title>
+            <Author> Martin J. Pring </Author>
+            <Price> 69.99 </Price>
+        </Book>
+    </Technical Books>
+    <Cookery Books>
+        <Book>
+            <ISBN> 201 </ISBN>
+            <Title> GORDON RAMSAY'S ULTIMATE COOKERY COURSE </Title>
+            <Author> Gordon Ramsay </Author>
+            <Price> 33.00 </Price>
+        </Book>
+        <Book>
+            <ISBN> 202 </ISBN>
+            <Title> SIMPLE FRENCH COOKERY </Title>
+            <Author> Raymond Blanc </Author>
+            <Price> 28.00 </Price>
+        </Book>
+    </Cookery Books>
+</Library>
